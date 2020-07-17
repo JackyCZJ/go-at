@@ -1,6 +1,7 @@
 GO-AT
 -----
 [![GoDoc](https://godoc.org/github.com/jackyczj/go-at?status.svg)](http://godoc.org/github.com/jackyczj/go-at)
+[![Go Report Card](https://goreportcard.com/badge/github.com/JackyCZJ/go-at)](https://goreportcard.com/report/github.com/JackyCZJ/go-at)
 
 A way to send AT command or something else to modem.
 
